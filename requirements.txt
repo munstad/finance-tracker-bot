@@ -1,0 +1,4 @@
+aiogram==3.13.1
+python-dotenv==1.0.1
+pandas==2.2.2
+matplotlib==3.9.0
