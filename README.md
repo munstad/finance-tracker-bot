@@ -23,7 +23,7 @@ Python 3.11+, aiogram 3, SQLite, pandas, matplotlib, python-dotenv
 
 1. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/твой_username/finance-tracker-bot.git
+   git clone https://github.com/munstad/finance-tracker-bot.git
    cd finance-tracker-bot
    ```
 
